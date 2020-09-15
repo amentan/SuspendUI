@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.tabs.TabLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navig_tab"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:layout_marginLeft="20dp"
+    android:textSize="16sp"
+    app:tabGravity="fill"
+    app:tabIndicatorFullWidth="false"
+    app:tabIndicatorHeight="2.5dp"
+    app:tabMode="fixed"
+    app:tabPaddingEnd="2dp"
+    app:tabPaddingStart="2dp"
+    app:tabSelectedTextColor="#333333">
+
+
+</com.google.android.material.tabs.TabLayout>
